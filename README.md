@@ -10,6 +10,6 @@ The code provided correspond of 3 main tools for:
 - 3 - a ML model to predict diffusion of signal over multi.layer dynamic graphs usign the concept of Graph Spectral Filter. The specific use case is to predict Covid-19 epidemic spread.
 
 Additional scipts are useful to 
-- extract updated information about Covid-19 cases from a web page
-- define a good layout to plot the multilayer graph in the various script
+- extract updated information about Covid-19 cases from a web page, generating a file that can be imported by 2
+- define a good layout to plot the multilayer graph in the various script 1 - 2 - 3
 
